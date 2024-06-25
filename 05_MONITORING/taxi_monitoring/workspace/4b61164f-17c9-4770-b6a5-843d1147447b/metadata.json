@@ -1,0 +1,15 @@
+{
+  "id": "4b61164f-17c9-4770-b6a5-843d1147447b",
+  "name": "HOMEWORK - NYC Taxi Data Quality Project",
+  "description": "Homework - My project description",
+  "dashboard": {
+    "name": "HOMEWORK - NYC Taxi Data Quality Project",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2024-06-26T01:20:59.883893"
+}
